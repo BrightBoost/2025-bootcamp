@@ -1,0 +1,33 @@
+[
+    {
+        "username": "rachana",
+        "email": "rachana@r.nl",
+        "favoriteNr": 3,
+        "orders": [
+            {
+                "productId": 1,
+                "quantity": 3
+            },
+            {
+                "productId": 3,
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "username": "Sujatha",
+        "email": "Sujatha@r.nl",
+        "favoriteNr": 1,
+        "orders": [
+            {
+                "productId": 1,
+                "quantity": 1
+            },
+            {
+                "productId": 20,
+                "quantity": 3
+            }
+        ],
+        "hobbies": ["baking", "reading books", "creating cartoons"]
+    }
+]

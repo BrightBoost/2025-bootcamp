@@ -14,7 +14,7 @@ Instructions:
 - Identify the relationships between the tables, such as one-to-many or many-to-many relationships, and establish the necessary foreign key constraints.
 
 Draw the tables:
-- Create a diagram showing the tables, their columns, and the relationships between them. Include one or two records in each table to illustrate how data will be stored. (e.g. use a tool such as ![drawing tool](https://draw.io))
+- Create a diagram showing the tables, their columns, and the relationships between them. Include one or two records in each table to illustrate how data will be stored. (e.g. use a tool such as [drawing tool](https://draw.io))
 
 Deliverables:
 - A document containing the list of tables, their columns, and relationships.
