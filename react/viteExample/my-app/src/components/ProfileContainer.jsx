@@ -23,7 +23,7 @@ function ProfileContainer() {
         <div>
             {persons.map(person => {
                 return (
-                    <Profile name={person.name} age={person.age} hobbies={person.hobbies} />
+                    <Profile key={person.name} name={person.name} age={person.age} hobbies={person.hobbies} />
                 )
             })}
         </div>

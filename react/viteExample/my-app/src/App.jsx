@@ -6,6 +6,8 @@ import EventAndState from './components/EventAndState'
 import SecondExampleState from './components/SecondExampleState'
 import ConditionalRendering from './components/ConditionalRendering'
 import './App.css'
+import LoopsRendering from './components/LoopsRendering'
+import ProductList from './components/ProductList'
 
 function App() {
 
@@ -16,6 +18,8 @@ function App() {
         <SecondExampleState />
         <ConditionalRendering show="true" />
         <ConditionalRendering show="false" />
+        <LoopsRendering />
+        <ProductList />
     </>
   )
 }
