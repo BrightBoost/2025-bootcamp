@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import ProfileContainer from './components/ProfileContainer'
 import EventAndState from './components/EventAndState'
 import SecondExampleState from './components/SecondExampleState'
+import ConditionalRendering from './components/ConditionalRendering'
 import './App.css'
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
         <ProfileContainer />
         <EventAndState />
         <SecondExampleState />
+        <ConditionalRendering show="true" />
+        <ConditionalRendering show="false" />
     </>
   )
 }
