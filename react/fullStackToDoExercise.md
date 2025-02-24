@@ -64,7 +64,7 @@ After this exercise, you can call yourself fullstack developer! You will create 
 - Upon submit, send a `POST` request to the backend.
 - Refresh the ToDo list after adding a new item.
 
-### **5. Implement Update and Delete Features**
+### **5. BONUS: Implement Update and Delete Features**
 - Add an edit button next to each ToDo item to allow updates.
 - Add a delete button to remove ToDo items.
 - Send `PUT` and `DELETE` requests to the backend accordingly.
